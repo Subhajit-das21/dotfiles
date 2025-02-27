@@ -220,6 +220,7 @@ alias gpsh='git push'
 alias gpsho='git push -u origin'
 alias gss='git status -s'
 alias gs='git status'
-export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
-export BROWSER="chrome"
+# ----------------------
+# Making Chrome Default
+# ----------------------
 export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
